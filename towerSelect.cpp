@@ -6,6 +6,9 @@
  3 6 9
 7 2 9 5
 例子中的最优方案是：5 + 8 + 6 + 9 = 28。
+
+eesly
+2014.9.8
 */
 #include <iostream>
 #include <ctime>
